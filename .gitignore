@@ -1,0 +1,6 @@
+# AWS key files
+*.pem
+# Compiled files
+target/
+# IDE config files
+.vscode/
